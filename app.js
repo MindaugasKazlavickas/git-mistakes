@@ -14,3 +14,6 @@ function third(){
 function fourth(){
     alert("this is number 4")
 }
+function didth(){
+    alert("this is number 5")
+}
