@@ -8,3 +8,9 @@ function hello(){
 function second(){
     alert("this is number 2")
 }
+function third(){
+    alert("this is number 3")
+}
+function fourth(){
+    alert("this is number 4")
+}
