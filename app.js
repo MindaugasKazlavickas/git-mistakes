@@ -17,3 +17,6 @@ function fourth(){
 function didth(){
     alert("this is number 5")
 }
+function sixth(){
+    alert("this is number 6")
+}
